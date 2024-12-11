@@ -1,0 +1,28 @@
+meta {
+  name: Edit List
+  type: http
+  seq: 2
+}
+
+put {
+  url: {{PATH}}/lists/596E99CB-152E-4055-45EC-08DD136D61A0
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{TOKEN}}
+}
+
+body:json {
+  {
+    "name": "string",
+    "description": "stringggggggggggggg",
+    "userId": "50b612be-f80a-4c75-83fc-a885660e3a08",
+    "softwaresList": [
+      "1a19cb51-f65e-41fa-6f46-08dd1222d841",
+      "3f856e02-ae5d-4660-e976-08dd11d85ded",
+     "3EC0E7DF-406D-4BED-8C4F-711C96AD5CDE"
+    ]
+  }
+}

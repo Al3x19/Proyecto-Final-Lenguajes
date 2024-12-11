@@ -1,0 +1,27 @@
+meta {
+  name: POST SOFTWARE
+  type: http
+  seq: 3
+}
+
+post {
+  url: {{PATH}}/softwares
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{TOKEN}}
+}
+
+body:json {
+  {
+    "name": "stroinnnnng",
+    "description": "stringgggggggggggggggggg",
+    "price": 0,
+    "img": "string",
+    "tagList": [
+      "string"
+    ]
+  }
+}

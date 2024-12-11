@@ -1,0 +1,17 @@
+meta {
+  name: Pagination List
+  type: http
+  seq: 4
+}
+
+get {
+  url: {{PATH}}/softwares?searchTerm&page=1&Filter
+  body: none
+  auth: none
+}
+
+params:query {
+  searchTerm: 
+  page: 1
+  Filter: 
+}

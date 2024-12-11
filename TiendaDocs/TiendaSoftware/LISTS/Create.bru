@@ -1,0 +1,27 @@
+meta {
+  name: Create
+  type: http
+  seq: 1
+}
+
+post {
+  url: {{PATH}}/lists
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{TOKEN}}
+}
+
+body:json {
+  {
+    "name": "string",
+    "description": "stringggggggggggggg",
+    "userId": "50b612be-f80a-4c75-83fc-a885660e3a08",
+    "softwaresList": [
+      "1a19cb51-f65e-41fa-6f46-08dd1222d841",
+      "3f856e02-ae5d-4660-e976-08dd11d85ded"
+    ]
+  }
+}

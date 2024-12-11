@@ -1,0 +1,15 @@
+meta {
+  name: Install
+  type: http
+  seq: 7
+}
+
+get {
+  url: {{PATH}}/softwares/download/3ec0e7df-406d-4bed-8c4f-711c96ad5cde
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{TOKEN}}
+}

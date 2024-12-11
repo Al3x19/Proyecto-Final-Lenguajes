@@ -1,0 +1,25 @@
+meta {
+  name: RegisterDev
+  type: http
+  seq: 4
+}
+
+post {
+  url: {{PATH}}/auth/register/Publisher
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{TOKEN}}
+}
+
+body:json {
+  {
+    "email": "jperezoimmmm@me.com",
+    "userName": "strinpgo",
+    "securitycode": "stringstring",
+    "password": "Temporal01*",
+    "confirmPassword": "Temporal01*"
+  }
+}

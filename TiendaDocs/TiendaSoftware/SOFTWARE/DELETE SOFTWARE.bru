@@ -1,0 +1,15 @@
+meta {
+  name: DELETE SOFTWARE
+  type: http
+  seq: 2
+}
+
+delete {
+  url: {{PATH}}/softwares/3f856e02-ae5d-4660-e976-08dd11d85ded
+  body: none
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{TOKEN}}
+}

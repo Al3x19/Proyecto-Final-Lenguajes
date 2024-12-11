@@ -1,0 +1,27 @@
+meta {
+  name: Edit Software
+  type: http
+  seq: 5
+}
+
+put {
+  url: {{PATH}}/softwares/4b0d75cb-ded4-4370-9f8a-3105c3d73d2f
+  body: json
+  auth: bearer
+}
+
+auth:bearer {
+  token: {{TOKEN}}
+}
+
+body:json {
+  {
+    "name": "stroinnnng",
+    "description": "stringgggggggggggggggggg",
+    "price": 0,
+    "img": "string",
+    "tagList": [
+      "string"
+    ]
+  }
+}

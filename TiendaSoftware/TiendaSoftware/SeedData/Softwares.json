@@ -1,0 +1,117 @@
+﻿[
+  {
+    "Id": "bbbed2a6-2df2-44a0-b401-6ccb85fdb5bc",
+    "Name": "Design Pro Studio",
+    "Icon": "https://img.utdstc.com/icon/4cf/c22/4cfc226cb0bddcaca9997f019c23de99d584d0b7f64c159ff5a27980ec651de6:200",
+    "Description": "Professional software for creating and editing visual content such as images and illustrations.",
+    "Price": 299.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+  },
+  {
+    "Id": "7d6948b4-e890-4bfa-9e24-56d2753db82e",
+    "Name": "PhotoEditPro",
+    "Icon": "https://images.sftcdn.net/images/t_app-icon-m/p/3dd4bee8-38ed-4665-a41c-105e4ee78765/3022765437/photo-pro-editor-logo",
+    "Description": "Software profesional de edición de imágenes con herramientas avanzadas.",
+    "Price": 299.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+
+  },
+  {
+    "Id": "16e51ff1-f299-4db0-8ab6-7a21f6b622f2",
+    "Name": "DataAnalyzer",
+    "Icon": "https://cdn.icon-icons.com/icons2/474/PNG/512/graphs_46879.png",
+    "Description": "Herramienta de análisis de datos para grandes conjuntos de información.",
+    "Price": 499.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+
+  },
+  {
+    "Id": "9d5cf063-2eea-4818-9738-8ce872ddae55",
+    "Name": "VideoCreator",
+    "Icon": "https://www.tuaplicacionpara.com/wp-content/uploads/2018/06/photoshop-app.jpg",
+    "Description": "Software de edición de video para crear videos de alta calidad.",
+    "Price": 349.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+
+  },
+  {
+    "Id": "97239381-ee28-4dc7-9b10-b71ba1b81449",
+    "Name": "ProjectManager",
+    "Icon": "https://cdnb.ganttpro.com/uploads/2021/11/software-de-gestion-de-proyectos-1.png",
+    "Description": "Software de gestión de proyectos para equipos de trabajo.",
+    "Price": 299.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+
+  },
+  {
+    "Id": "7b9b4491-eea9-4dc0-9bc1-cc8d92c5dd75",
+    "Name": "AccountingPro",
+    "Icon": "https://www.sencinet.com/media/252/blog-sistema-sap.jpg",
+    "Description": "Software de contabilidad para pequeñas y medianas empresas.",
+    "Price": 199.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+
+  },
+  {
+    "Id": "57c1ea3e-632f-42cb-8c66-865eb543e8a0",
+    "Name": "CRMSuite",
+    "Icon": "https://grupo-pya.com/wp-content/uploads/2021/10/Gestion-de-relaciones.jpg",
+    "Description": "Plataforma de gestión de relaciones con clientes.",
+    "Price": 199.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+
+  },
+  {
+    "Id": "584ada46-20f3-461e-b92c-4d4ce64fde86",
+    "Name": "CorelDraw",
+    "Icon": "https://gotrialpro.com/wp-content/uploads/edd/2024/08/Coreldraw-free-trial.png",
+    "Description": "CorelDRAW esUn editor de gráficos vectoriales y una aplicación de diseño de páginas.que se puede utilizar para una variedad de tareas de diseño gráfico.",
+    "Price": 499.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+
+  },
+  {
+    "Id": "f246e7af-0823-448f-9077-0f0814611c63",
+    "Name": "Secure Cloud Storage",
+    "Icon": "https://www.smsdatacenter.com/wp-content/uploads/2023/02/edr-vs-antivirus.png",
+    "Description": "Advanced cloud storage service providing secure and scalable online data storage accessible from anywhere.",
+    "Price": 99.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+  },
+  {
+    "Id": "3ec0e7df-406d-4bed-8c4f-711c96ad5cde",
+    "Name": "Web Dev IDE",
+    "Icon": "https://play-lh.googleusercontent.com/7pm5ZCeo-110TiZobo7L0XVOGdKTAI8txv-lgN3wYc6-0CUMD-pZOvktM8bbPuMgKQ",
+    "Description": "An integrated development environment tailored for web development, featuring tools and utilities for efficient programming.",
+    "Price": 129.99,
+    "Version": "1.0.0",
+    "PublisherId": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d"
+  },
+  {
+    "Id": "46fd0733-1f43-41b9-981d-21221947b07b",
+    "Name": "Ultimate Game Engine",
+    "Icon": "https://gamengen.cloud/wp-content/uploads/2024/09/featured-image-ai-powered-game-engines-2024.webp",
+    "Description": "A comprehensive game engine framework for developing video games, including tools for graphics, physics, and game logic.",
+    "Price": 499.99,
+    "Version": "1.0.0",
+    "PublisherId": "d96aebd9-bbf3-4393-9629-d5d960f21404"
+  },
+  {
+    "Id": "4b0d75cb-ded4-4370-9f8a-3105c3d73d2f",
+    "Name": "SafeGuard Antivirus",
+    "Icon": "https://cdn.aarp.net/content/dam/aarp/home-and-family/personal-technology/2023/02/1140-anti-virus-software-laptop-esp.jpg",
+    "Description": "Software designed to detect, prevent, and remove malware and viruses, ensuring comprehensive protection for your system.",
+    "Price": 49.99,
+    "Version": "1.0.0",
+    "PublisherId": "d96aebd9-bbf3-4393-9629-d5d960f21404"
+  }
+]

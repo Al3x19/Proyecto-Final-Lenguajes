@@ -1,0 +1,58 @@
+﻿[
+  {
+    "Id": "70cb04d1-a284-4a4e-bc1e-919ebe689d9d",
+    "Name": "Tech Innovations Inc.",
+    "Description": "A large technology company known for its cutting-edge software solutions and extensive development team.",
+    "Icon": "https://plus.unsplash.com/premium_photo-1720903984809-62de3f4ca814?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nzd8fGVzdHVkaW9zJTIwZGUlMjBwcm9ncmFtYWNpb258ZW58MHx8MHx8fDA%3D",
+    "Securitycode": "BANK-TII-123456"
+  },
+  {
+    "Id": "aff60fe2-c37c-4aa6-8e82-d128ca1eeff0",
+    "Name": "Creative Solutions Ltd.",
+    "Description": "A well-established company specializing in creative software solutions and innovative technology products.",
+    "Icon": "https://plus.unsplash.com/premium_photo-1675793715030-0584c8ec4a13?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fGVzdHVkaW9zJTIwZGUlMjBwcm9ncmFtYWNpb258ZW58MHx8MHx8fDA%3D",
+    "Securitycode": "BANK-CSL-654321"
+  },
+  {
+    "Id": "d96aebd9-bbf3-4393-9629-d5d960f21404",
+    "Name": "GreenTech Development",
+    "Description": "A technology company focusing on sustainable and eco-friendly software solutions with a dedicated development team.",
+    "Icon": "https://images.unsplash.com/photo-1531030874896-fdef6826f2f7?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fGVzdHVkaW9zJTIwZGUlMjBwcm9ncmFtYWNpb258ZW58MHx8MHx8fDA%3D",
+    "Securitycode": "BANK-GTD-789012"
+  },
+  {
+    "Id": "3eb67f25-ad1d-4d87-bdf3-50b5d6b771a2",
+    "Name": "Globant",
+    "Description": "Empresa global que ofrece soluciones de desarrollo de software, consultoría tecnológica e innovación.",
+    "Icon": "https://plus.unsplash.com/premium_photo-1669530927206-272a5f2f99bc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Z2xvYmFudHxlbnwwfHwwfHx8MA%3D%3D",
+    "Securitycode": "BANK-GTD-789012"
+  },
+  {
+    "Id": "7284b36d-76a9-4907-ba60-61f0cf2fee23",
+    "Name": "Turing",
+    "Description": "Plataforma que conecta a empresas con desarrolladores de software a nivel mundial.",
+    "Icon": "https://logopond.com/logos/fd97a47d71a4d09093981faadc3aa8e2.png",
+    "Securitycode": "BANK-GTD-789012"
+  },
+  {
+    "Id": "1b9de850-6daf-42c3-8515-0f608dc7d0c6",
+    "Name": "IntelliSoft",
+    "Description": "Estudio especializado en el desarrollo de software a medida y soluciones tecnológicas personalizadas.",
+    "Icon": "https://media.licdn.com/dms/image/v2/C4D0BAQFrZuKfzdJ-HQ/company-logo_200_200/company-logo_200_200/0/1646993009635/intellisoft_3_logo?e=2147483647&v=beta&t=NJdLMQC83sGO3LS7ZBECOlYrwr8O59OgQoXkkT2s_ZE",
+    "Securitycode": "BANK-GTD-789012"
+  },
+  {
+    "Id": "766f9dd7-8ebf-41ec-a75d-6b0ea1aea52f",
+    "Name": "Cognizant",
+    "Description": "Empresa global que ofrece servicios de desarrollo de software, digitalización y consultoría en TI.",
+    "Icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYfnYIA7vfnD4ZoPE2RrR8dkCPcg9Pv-CBY2WnJHe4jGze0gM2Z2coxh_1AQELn9xZvMI&usqp=CAU",
+    "Securitycode": "BANK-GTD-789012"
+  },
+  {
+    "Id": "1f0e93cf-06ff-4cd3-98cb-b1ba79ae083b",
+    "Name": "BairesDev",
+    "Description": "Empresa que desarrolla soluciones tecnológicas y servicios de software para empresas de todo el mundo.",
+    "Icon": "https://ml.globenewswire.com/Resource/Download/63bb0b5b-67c9-4f91-a28a-4c62c87910ff",
+    "Securitycode": "BANK-GTD-789012"
+  }
+]
